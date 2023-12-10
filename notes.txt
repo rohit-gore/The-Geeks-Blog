@@ -1,0 +1,2 @@
+1. to start react app : pehle ek bar "npm i" kr lo, fir uske baad "npm run start".
+aur hmara jo local DB bnaya hai .. usko run krne ke liye "npx json-server --watch data/db.json --port 8000" ye command dalo nya terminal bnake.
